@@ -1,0 +1,37 @@
+MEC tips and tricks]
+
+troubleshooting and debugging
+
+When you need to look at the values of variables in your map. There are 2 methods.
+
+1. using System.out.println(); // this prints the values to the MEC text log which can be hard to find.
+2. Using cat.info(); // I use this method as it writes events to the MecLog table and can be seen for each message by clicking on the Log icon after clicking show next to your message on the MEC Admin Message page.
+
+example of 2.
+
+
+
+		cat.info(iInvdate);
+		cat.info(iInvdate.indexOf("-"));
+		cat.info(iInvdate.length());
+		cat.info(oIVDT);
+		
+		
+		if (iInvdate.length() == 22 && iInvdate.indexOf("-") == 4)
+		{oIVDT = iInvdate.substring (0,4) + iInvdate.substring (5,7) + iInvdate.substring (8,10);}
+		else if (iInvdate.length() == 10 && iInvdate.indexOf("/") == 4)
+		{oIVDT = iInvdate.substring (0,4) + iInvdate.substring (5,7) + iInvdate.substring (8,10);}
+		else if (iInvdate.length() == 10 && iInvdate.indexOf("-") == 4)
+		{oIVDT = iInvdate.substring (0,4) + iInvdate.substring (5,7) + iInvdate.substring (8,10);}
+		else if (iInvdate.length() == 10 && iInvdate.indexOf("/") == 2)
+		{oIVDT = iInvdate.substring (6,10) + iInvdate.substring (0,2) + iInvdate.substring (3,5);}
+		else if (iInvdate.length() == 10 && iInvdate.indexOf("-") == 2)
+		{oIVDT = iInvdate.substring (6,10) + iInvdate.substring (0,2) + iInvdate.substring (3,5);}
+
+		cat.info(iInvdate);
+		cat.info(iInvdate.indexOf("-"));
+		cat.info(iInvdate.length());
+		cat.info(oIVDT);
+
+		
+In MEC Admin - 
