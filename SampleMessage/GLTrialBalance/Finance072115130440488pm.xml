@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<SyncGLTrialBalance systemEnvironmentCode="Production" languageCode="GB" releaseID="9.200000000" versionID="2.7.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sqle36638>
+    <ApplicationArea>
+      <Sender>
+        <LogicalID>infor.informatica.hpe</LogicalID>
+        <ComponentID>SBD_HPE</ComponentID>
+      </Sender>
+      <CreationDateTime>2015-07-17T14:45:21.000000000</CreationDateTime>
+      <BODID>HPE:07/17/2015 14:45:21.000000</BODID>
+    </ApplicationArea>
+    <DataArea>
+      <Sync>
+        <TenantID>1</TenantID>
+        <LocationID>1</LocationID>
+        <ActionCriteria>
+          <ActionExpression actionCode="Add"/>
+        </ActionCriteria>
+      </Sync>
+      <GLTrialBalance>
+        <GLTrialBalanceHeader>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <interface>TB_UPLD</interface>
+            <description>JDE Balance Transfer</description>
+            <status>0</status>
+            <testIdentity>0</testIdentity>
+            <changeNumber>0</changeNumber>
+            <MGLChangeDate>0</MGLChangeDate>
+            <EntryDate>20150717</EntryDate>
+            <RSChangeDate>0</RSChangeDate>
+            <RecordStatus> </RecordStatus>
+            <Job>          </Job>
+            <Program>M3JDE200  </Program>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <ProcessStatus>0</ProcessStatus>
+            <ProcessDate>0.000000000000000</ProcessDate>
+            <ProcessTime>0.000000000000000</ProcessTime>
+            <userChanged></userChanged>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+        </GLTrialBalanceHeader>
+        <GLTrialBalanceDetail>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>1</lineNumber>
+            <parmValue>1413,109,,,,,,0,2486873.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>2</lineNumber>
+            <parmValue>1620,109,,201,,,,0,192000.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>3</lineNumber>
+            <parmValue>1910,109,,,350,,,0,1213995780.77,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>4</lineNumber>
+            <parmValue>1910,109,,,360,,,0,2027613220.82-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>5</lineNumber>
+            <parmValue>1910,109,,,300,,,0,809691652.61,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>6</lineNumber>
+            <parmValue>1910,109,,,362,,,0,2164071.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>7</lineNumber>
+            <parmValue>2817,109,,,,,,0,10400000.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>8</lineNumber>
+            <parmValue>2818,109,,,,,,0,12900000.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>9</lineNumber>
+            <parmValue>2824,109,,,,,,0,74500000.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>10</lineNumber>
+            <parmValue>3065,109,,,,,,0,218492.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>11</lineNumber>
+            <parmValue>3100,109,,201,,,,0,803178.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>12</lineNumber>
+            <parmValue>3100,109,,901,,,,0,1089346.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>13</lineNumber>
+            <parmValue>3100,109,,141,,,,0,375857.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>14</lineNumber>
+            <parmValue>3515,109,,,,,,0,525000.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>15</lineNumber>
+            <parmValue>4811,109,,,,,,0,68694152.30,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>16</lineNumber>
+            <parmValue>4811,109,,101,,,,0,10400000.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>17</lineNumber>
+            <parmValue>4812,109,,901,,,,0,4047351.61,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>18</lineNumber>
+            <parmValue>4830,109,,201,,,,0,12900000.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>19</lineNumber>
+            <parmValue>4840,109,,,,,,0,8581354.53,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>20</lineNumber>
+            <parmValue>5330,109,,501,,,,0,19021.22,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>21</lineNumber>
+            <parmValue>5330,109,,141,,,,0,221034.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>22</lineNumber>
+            <parmValue>5950,109,,501,,,,0,19021.22-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>23</lineNumber>
+            <parmValue>5950,109,,141,,,,0,221034.00-,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>24</lineNumber>
+            <parmValue>6031,109,,201,,,,0,48000.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+          <viewfmt>
+            <company>100</company>
+            <division>109</division>
+            <keyValue>201410</keyValue>
+            <lineNumber>25</lineNumber>
+            <parmValue>6031,109,,809,,,,0,279000.00,JDE Balance Transfer</parmValue>
+            <status>0</status>
+            <TextIdentity>0</TextIdentity>
+            <ChangeNumber>0</ChangeNumber>
+            <EntryDate>20150717</EntryDate>
+            <ChangeDate>0</ChangeDate>
+            <DateChanged>0</DateChanged>
+            <UserChanged></UserChanged>
+            <RecordStatus> </RecordStatus>
+            <Job>         </Job>
+            <UserAdded>ISBGUTI   </UserAdded>
+            <DateAdded>1150717</DateAdded>
+            <TimeAdded>143733</TimeAdded>
+            <Program>M3JDE200</Program>
+            <TimeChanged>0</TimeChanged>
+          </viewfmt>
+        </GLTrialBalanceDetail>
+      </GLTrialBalance>
+    </DataArea>
+  </sqle36638>
+</SyncGLTrialBalance>
